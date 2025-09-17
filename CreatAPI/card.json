@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "image":"https://pizzapop.com.mx/cdn/shop/products/image.png?v=1680849779",
+        "titile":"Pizza",
+        "dis":"Good Food",
+        "price":3.50
+    },
+    {
+        "id":2,
+        "image":"https://png.pngtree.com/png-clipart/20250106/original/pngtree-delicious-fresh-berger-food-png-image_18815120.png",
+        "titile":"Berger",
+        "dis":"Best Food",
+        "price":5.70
+    },
+     {
+        "id":3,
+        "image":"https://images.deliveryhero.io/image/fd-kh/LH/g0bt-hero.jpg?width=512&height=384&quality=45",
+        "titile":"បាញ់ឆៀវ",
+        "dis":"Good Food Khmer",
+        "price":3.50
+    },
+    {
+        "id":4,
+        "image":"https://asiatoursdesk.com/wp-content/uploads/2025/01/traditional-khmer-food-1.webp",
+        "titile":"ទឺកគ្រឿ",
+        "dis":"Good Food Khmer",
+        "price":3.50
+    },
+     {
+        "id":5,
+        "image":"https://www.shoreexcursions.asia/wp-content/uploads/2016/08/Typical-Khmer-Cambodia-Cuisine.jpg",
+        "titile":"នំបញ្ជុក",
+        "dis":"Good Food Khmer",
+        "price":3.50
+    },
+     {
+        "id":6,
+        "image":"https://pizzapop.com.mx/cdn/shop/products/image.png?v=1680849779",
+        "titile":"Pizza",
+        "dis":"Good Food",
+        "price":3.50
+    },
+    {
+        "id":7,
+        "image":"https://png.pngtree.com/png-clipart/20250106/original/pngtree-delicious-fresh-berger-food-png-image_18815120.png",
+        "titile":"Berger",
+        "dis":"Best Food",
+        "price":5.70
+    },
+     {
+        "id":8,
+        "image":"https://stc-vendors.oss-ap-southeast-1.aliyuncs.com/uploads/20250512/51e048a4865d24a6d72ab6a6f3a1dfa9.jpg",
+        "titile":"បាញ់ឆៀវ",
+        "dis":"Good Food Khmer",
+        "price":3
+    },
+    {
+        "id":9,
+        "image":"https://static.independent.co.uk/2024/07/04/10/iStock-1826839810.jpg",
+        "titile":"ទឺកគ្រឿង",
+        "dis":"Good Food Khmer",
+        "price":3
+    },
+     {
+        "id":10,
+        "image":"https://www.gocambodia.tours/wp-content/uploads/2024/06/Traditional-Khmer-Cuisine-with-go-laos-tours-7.jpg",
+        "titile":"មឺកអាំង",
+        "dis":"Good Food ",
+        "price":3
+    }
+]
